@@ -29,7 +29,7 @@ function check(){
 
     for (var i = 0; i < rusername.length; i++) {
         if (lusername === rusername[i] &&  lpassword === rpassword[i]) {
-            window.open("https://ecoholics.netlify.app/rewards");
+            window.open("rewards.html");
             LoginState=true;
             break;
         }

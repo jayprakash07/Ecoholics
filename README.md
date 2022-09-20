@@ -1,4 +1,3 @@
-![Capture](https://user-images.githubusercontent.com/49925882/190213141-78c95eff-c873-4fb6-ae5a-985b60cf2fde.png)
 
 ## Your Trash is your Treasure
 

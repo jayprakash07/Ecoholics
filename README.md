@@ -7,3 +7,5 @@ Our project gives people the opportunity to improve the world while making profi
 Credits: Jayprakash Pathak, Tirth Nagar, Pratham Pathak, Dev Patel
 
 Devpost: https://devpost.com/software/ecoholics
+
+Demo Link: https://itsjaypathak.me/Ecoholics

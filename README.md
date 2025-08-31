@@ -9,3 +9,5 @@ Credits: Jayprakash Pathak, Tirth Nagar, Pratham Pathak, Dev Patel
 Devpost: https://devpost.com/software/ecoholics
 
 Demo Link: https://itsjaypathak.me/Ecoholics
+
+Copyright (c) 2023 Ecoholics. All rights reserved.

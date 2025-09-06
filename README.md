@@ -10,4 +10,4 @@ Devpost: https://devpost.com/software/ecoholics
 
 Demo Link: https://itsjaypathak.me/Ecoholics
 
-Copyright © 2023 Ecoholics. All rights reserved.
+Copyright © 2023 Ecoholics.
